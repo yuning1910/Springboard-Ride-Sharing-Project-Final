@@ -29,3 +29,8 @@ Dropoff Centroid Latitude
 Dropoff Centroid Longitude
 Dropoff Centroid Location
 
+
+Conclusion
+
+The Ride Sharing data from the City of Chicago has been processed and fitted into several regression models to estimate the trip fare. As there is no significant difference among the model accuracy,  a simple linear regression with an accuracy score of 0.852 can be used. Spatial variables has been converted into categorical variables to incorporate them into the model. Since time variables were not directly included in model building, it will be interesting to include them in future analysis to access the impact of time on fare. 
+
