@@ -1,5 +1,6 @@
 # Springboard-Ride-Sharing-Project-Final
 Springboard Second Capstone Project - Ride Sharing Service Fee Estimation 
+
 Introduction 
 On March 28th, 2019,  San Francisco based ride hailing company Lyft became a public company via IPO.  It is expected that Lyft’s major competitor Uber will follow the suit to be IPO soon. Peer-to-peer ridesharing become an important part of people’s life everywhere. Ridesharing company implements a dynamic pricing model when calculating the trip cost. As an active ridesharing service customer, I have been interested in the pricing model those companies implemented for a while. The goal of this project is to develop a ridesharing service pricing model that allows customer like me to estimate the trip cost. 
 
